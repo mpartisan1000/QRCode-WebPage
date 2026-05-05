@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mpartisan1000/QRCode-WebPage.git)
+- Live Site URL: [Add live site URL here](https://qrcodewebpage.vercel.app/)
 
 ## My process
 
@@ -72,5 +72,5 @@ ChatGpt - I prompted it to first can the contents of my folder, by doing so maki
 
 ## Author
 
-- Website - [Leroy Mends](https://www.your-site.com)
+- Website - [Leroy Mends](https://qrcodewebpage.vercel.app/)
 - Frontend Mentor - [@mpartisan1000](https://www.frontendmentor.io/profile/mpartisan1000)
