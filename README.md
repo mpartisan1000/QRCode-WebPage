@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mpartisan1000/QRCode-WebPage.git)
-- Live Site URL: [Add live site URL here](https://qrcodewebpage.vercel.app/)
+- Solution URL: [QRCode Webpage git](https://github.com/mpartisan1000/QRCode-WebPage.git)
+- Live Site URL: [QRCode WebPage](https://qrcodewebpage.vercel.app/)
 
 ## My process
 
