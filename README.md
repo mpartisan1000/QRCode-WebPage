@@ -16,7 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Useful resources](#useful-resources)
     - [AI Collaboration](#ai-collaboration)
   - [Author](#author)
-- [QRCode-WebPage](#qrcode-webpage)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -47,11 +46,13 @@ I learned how to properly apply flexbox properties.
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
-```.proud-of-this-css {
+
+.proud-of-this-css {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+```
 
 ### Continued development
 
@@ -62,6 +63,7 @@ What I would love to continue developing would be flexbox and css grid layouts a
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/align-items)- This helped me deepen my understanding of flexbox. One mistake which really hit me hard was using display flex seperately from it css conterparts for example align-items
 
 ### AI Collaboration
+
 ChatGpt - I prompted it to first can the contents of my folder, by doing so making it familiarize with the folder contents. 
         - I then told it to scan CLAUDE.md ; This caused it to just read it but it didn't follow its prompt.
         - I then decide to tell Chat to scan and follow up the scan by using its content as a standard to operate AGENTS.md
@@ -72,4 +74,3 @@ ChatGpt - I prompted it to first can the contents of my folder, by doing so maki
 
 - Website - [Leroy Mends](https://www.your-site.com)
 - Frontend Mentor - [@mpartisan1000](https://www.frontendmentor.io/profile/mpartisan1000)
-# QRCode-WebPage
