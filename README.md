@@ -52,6 +52,7 @@ I learned how to properly apply flexbox properties.
   align-items: center;
   justify-content: center;
 }
+
 ### Continued development
 
 What I would love to continue developing would be flexbox and css grid layouts also understanding more 0f html semantic tags.
