@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [QRCode Webpage git](https://github.com/mpartisan1000/QRCode-WebPage.git)
+- Solution URL: [FrontEnd Mentor Solutions](https://www.frontendmentor.io/solutions/responsive-qr-code-webpage-using-flexbox-2AmFOFvnlt)
 - Live Site URL: [QRCode WebPage](https://qrcodewebpage.vercel.app/)
 
 ## My process
