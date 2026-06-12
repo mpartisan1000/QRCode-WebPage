@@ -39,6 +39,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - [Styled Components](https://styled-components.com/) - For styles
+- Mobile First Workflow
   
 ### What I learned
 
